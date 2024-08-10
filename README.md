@@ -1,4 +1,26 @@
 ## Hi there 👋
+Hi, I'm Lingyu Guan! I'm currently a postdoctoral researcher at Children's Hospital of Philadelphia.
+
+## 🧠 That I know and use
+### 📚 Programming and statistical languages
+- Python, Perl
+- C++, C#, VB, etc.
+- R, Matlab
+
+### ⚡ Database and webserver
+- MySQL
+- HTML, CSS
+- PHP, JavaScript
+- Bootstrap, Django
+- Apache
+
+### ⚡ Frameworks
+- Snakemake
+- Singularity
+- Docker
+  
+### 🔧 Tool
+- Open source projects
 
 <!--
 **LingyuGuan/LingyuGuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
